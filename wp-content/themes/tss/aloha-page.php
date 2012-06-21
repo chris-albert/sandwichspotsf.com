@@ -147,7 +147,7 @@ function validEmail($email)
 						<a href="mailto:Aloha@SandwichSpotSF.com">Aloha@SandwichSpotSF.com</a>
 					</div>
 					<div class="cinfo">
-						<h5>mon-wed</h5> 8am-6pm <h5>th-sat</h5> 8am-7pm <h5>sun</h5> 8am-4pm
+						<h5>mon-thru</h5> 8am-6pm <h5>fri-sat</h5> 8am-7pm <h5>sun</h5> 8am-4pm
 					</div>
 				</div>
 			</div>
@@ -196,7 +196,7 @@ function validEmail($email)
 						<a href="mailto:Aloha@SandwichSpotSF.com">Aloha@SandwichSpotSF.com</a>
 					</div>
 					<div class="cinfo">
-						<h5>mon-wed</h5> 8am-6pm <h5>th-sat</h5> 8am-7pm <h5>sun</h5> 8am-4pm
+						<h5>mon-thur</h5> 8am-6pm <h5>fir-sat</h5> 8am-7pm <h5>sun</h5> 8am-4pm
 					</div>
 				</div>
 			</div>

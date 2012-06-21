@@ -310,8 +310,8 @@ get_header();
 			</div>
 			
 			<div id="menu-hours">
-				<h3>mon-wed:  8am-6pm</h3>
-				<h3>thurs-sat:  8am-7pm</h3>
+				<h3>mon-thur:  8am-6pm</h3>
+				<h3>fri-sat:  8am-7pm</h3>
 				<h3>sundays:  8am-4pm</h3>
 			</div>
 		</div>
